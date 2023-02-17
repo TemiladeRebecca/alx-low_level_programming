@@ -2,8 +2,8 @@
 #include <unistd.h>
 
 /**
- * main - Entry
- * Result: Always 1.
+ * main - Prints "and that piece of art is useful"
+ * Return: Always 1.
  */
 
 int main(void)
