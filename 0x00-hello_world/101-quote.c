@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include <unistd.h>
 
 /**
- * main - Prints "and that piece of art is useful"
- * Return: Always 1.
+ * main - prints "and that piece of art is useful"
+ * Return: 1
+ * 
  */
 
 int main(void)
