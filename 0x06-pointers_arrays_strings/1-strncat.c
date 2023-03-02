@@ -2,8 +2,8 @@
 
 /**
  * _strncat - Concatenates two strings using
- * inputted number of bytes from src.
- * @dest: pointer to destination to be appended upon.
+ *            inputted number of bytes from src.
+ * @dest: pointer to destination tobe appended upon.
  * @src: pointer to string to be appended to dest.
  * @n: The number of bytes from src to be appended to dest.
  *
@@ -19,10 +19,11 @@ char *_strncat(char *dest, char *src, int n)
 		d_count++;
 	}
 
-	for (array = 0; src[array] && aray < n; array++)
+	for (array = 0; src[array] && array < n; array++)
 	{
 		dest[d_count++] = src[array];
 	}
 
 	return (dest);
 }
+
