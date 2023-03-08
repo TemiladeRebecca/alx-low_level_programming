@@ -1,3 +1,6 @@
+C - Recursion 📃 0x08-recursion About this project:
+
+In this project I learnt and practiced;
 What is recursion
 How to implement recursion
 In what situations you should implement recursion
