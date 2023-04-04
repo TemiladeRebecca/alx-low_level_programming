@@ -1,5 +1,4 @@
 #include "lists.h"
-#include <stdlib>
 
 /**
  * reverse_listint - reverses a listint_t linked list.
