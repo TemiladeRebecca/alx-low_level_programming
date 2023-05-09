@@ -8,6 +8,7 @@
 /**
  * read_textfile - reads a text file and prints it to the POSIX standard output
  * @filename: name of the file to read
+ * fd: file descriptor
  * @letters: number of letters it should read and print
  *
  * Return: 0 if failure, Else actual number of letters it could read and print
